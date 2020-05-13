@@ -3,5 +3,7 @@ public class Main {
         Car lol = new Car(8);
         lol.start();
         lol.stop();
+
+        lol.getNumberOfSeats();
     }
 }
